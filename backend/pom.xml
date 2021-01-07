@@ -9,11 +9,11 @@
 		<version>2.4.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
-	<artifactId>dsdeliver</artifactId>
+	<groupId>com.vbt</groupId>
+	<artifactId>godelivery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dsdeliver</name>
-	<description>Projeto Semana DevSuperior 2.0</description>
+	<name>godelivery</name>
+	<description>Projeto Web e Mobile</description>
 
 	<properties>
 		<java.version>11</java.version>
