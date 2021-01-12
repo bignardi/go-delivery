@@ -9,7 +9,7 @@ function Navbar() {
     <nav className="main-navbar">
       <Logo />
       <Link to="/" className="logo-text">
-        GO Delivery
+        GO! Delivery
       </Link>
     </nav>
   );

@@ -2,7 +2,9 @@ import axios from "axios";
 
 import { OrderPayload } from "../pages/Orders/types";
 
-const API_URL = 'http://localhost:8080'
+//const API_URL = 'http://localhost:8080' base teste
+const API_URL = "https://vbt-godelivery.herokuapp.com"
+
 const mapboxToken = process.env.REACT_APP_ACCESS_TOKEN_MAP_BOX; /* Your token mapbox here! */
 
 export const fetchProducts = () => {
